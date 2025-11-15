@@ -12,7 +12,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
 ###
 
 <div align="left">
@@ -47,7 +46,13 @@
 
 <br clear="both">
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codeultr0n/codeultr0n/output/pacman-contribution-graph-dark.svg" />
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -61,10 +66,17 @@
 
 ###
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=codeultr0n&label=Profile%20views&color=0e75b6&style=flat" alt="codeultr0n" /> 
+### 🏆 GitHub Trophies
+
+<p align="left">
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophy onedark" />
+  </a>
 </p>
 
+###
+
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeultr0n" alt="codeultr0n" /></a> 
+  <img src="https://komarev.com/ghpvc/?username=codeultr0n&label=Profile%20views&color=0e75b6&style=flat" alt="codeultr0n" /> 
 </p>
