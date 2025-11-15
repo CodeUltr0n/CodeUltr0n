@@ -1,18 +1,18 @@
 <h2 align="left">Hi 👋! My name is Ketan Chokkara and I'm a Full-Stack Developer from India</h2>
 
-###
+
+
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeultr0n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
