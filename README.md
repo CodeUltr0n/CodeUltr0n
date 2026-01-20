@@ -63,12 +63,11 @@
 
 ###
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="left">
-  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophy onedark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=codeultr0n&theme=onedark&no-frame=true&margin-w=15" />
   </a>
 </p>
 
