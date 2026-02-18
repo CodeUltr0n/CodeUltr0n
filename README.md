@@ -65,7 +65,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codeultr0n&theme=dracula)
+![GitHub Trophies]([![trophy](https://github-profile-trophy.vercel.app/?username=CodeUltr0n&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))
 
 ###
 
