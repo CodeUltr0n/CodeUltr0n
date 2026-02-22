@@ -61,11 +61,6 @@
 - 📫 How to reach me: **chokkaraketanrao@gmail.com**  
 - 👨‍💻 All of my projects: [Portfolio](https://ketan-chokkara-portfolio.vercel.app/)
 
-###
-
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodeUltr0n&theme=onedark)](https://github.com/CodeUltr0n/github-profile-trophy)
 
 ###
 
