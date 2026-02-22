@@ -53,7 +53,7 @@
 
 ###
 
-- 🔭 I’m currently working on **Live Conferencing Web App**  
+- 🔭 I’m currently working on **AI - Powered Full Stack App**  
 - 🌱 I’m currently learning **AI/ML & Model Training**  
 - 👯 I’m looking to collaborate on **Full-Stack Projects**  
 - 🤝 I’m looking for help with **DevOps**  
@@ -65,7 +65,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies]([![trophy](https://github-profile-trophy.vercel.app/?username=CodeUltr0n&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodeUltr0n&theme=onedark)](https://github.com/CodeUltr0n/github-profile-trophy)
 
 ###
 
