@@ -185,8 +185,6 @@ I'm a Full-Stack Developer & AI Engineer from India specializing in the **MERN S
 
 - 🧠 **LLM Evaluation & Gateways** — building evaluation harnesses and inference gateways for safe, observable, and production-grade LLM deployments.
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer" width="100%" />
 </div>
