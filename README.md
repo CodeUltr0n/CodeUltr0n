@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Swiggy Builders Club Achievement Banner -->
-<a href="https://mcp.swiggy.com/builders/docs/">
+<a href="https://mcp.swiggy.com/builders">
   <img src="https://img.shields.io/static/v1?message=Swiggy+Builders+Club+%E2%80%94+Selected&logo=swiggy&label=%F0%9F%8F%86&color=FC8019&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="40" alt="Swiggy Builders Club Selected" />
 </a>
 &nbsp;
@@ -176,7 +176,7 @@ I'm a Full-Stack Developer & AI Engineer from India specializing in the **MERN S
 ### 🏆 Achievements
 
 - 🥇 **Swiggy Builders Club — Selected** (2026)
-  Approved to build **MCP Orchestrator** on Swiggy's MCP platform. Staging credentials + integration agreement in progress; building live at [mcp.swiggy.com/builders/docs](https://mcp.swiggy.com/builders/docs/).
+  Approved to build **MCP Orchestrator** on Swiggy's MCP platform. building live at [mcp.swiggy.com/builders](https://mcp.swiggy.com/builders/docs/).
 
 - 🥈 **AMD Slingshot 2026 — Finalist** (Hyderabad)
   Built an AI solution for **AI in Consumer Experience**; selected as a finalist among teams nationwide.
