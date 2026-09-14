@@ -18,6 +18,14 @@
 <a href="https://github.com/CodeUltr0n">
   <img src="https://img.shields.io/static/v1?message=AMD+Slingshot+2026+Finalist&logo=amd&label=%F0%9F%8F%86&color=ED1C24&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="40" alt="AMD Slingshot 2026 Finalist" />
 </a>
+&nbsp;
+<a href="https://youtu.be/8W6jmgECRfo">
+  <img src="https://img.shields.io/static/v1?message=Watch+Demo&logo=youtube&label=%E2%96%B6&color=FF0000&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="40" alt="YouTube Demo" />
+</a>
+&nbsp;
+<a href="https://swiggy-builders-club-ai-agent.onrender.com/">
+  <img src="https://img.shields.io/static/v1?message=Try+Live+Product&logo=render&label=%F0%9F%9A%80&color=46E3B7&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="40" alt="Live Product" />
+</a>
 
 <br/><br/>
 
@@ -44,7 +52,7 @@
 
 I'm a Full-Stack Developer & AI Engineer from India specializing in the **MERN Stack** and building intelligent systems. I work on **RAG pipelines**, **Agentic AI architectures**, and **LLM evaluation & gateways** — combining full-stack development with deep AI/ML expertise.
 
-- 🏆 **Selected for Swiggy Builders Club** — building **MCP Orchestrator**, an orchestration layer for Model Context Protocol servers on the Swiggy platform
+- 🏆 **Selected for Swiggy Builders Club** — building **MCP Orchestrator**, an orchestration layer for Model Context Protocol servers on the Swiggy platform · [▶ Watch Demo](https://youtu.be/8W6jmgECRfo) · [🚀 Try Live](https://swiggy-builders-club-ai-agent.onrender.com/)
 - 🏆 **AMD Slingshot 2026 Finalist** — Hyderabad, for an AI solution in Consumer Experience
 - 🔬 Built a **RAG Agentic AI System** and working on **LLM evaluation & gateways**
 - 🤝 Open to collaborating on **AI/ML & Full-Stack Projects**
@@ -62,7 +70,10 @@ I'm a Full-Stack Developer & AI Engineer from India specializing in the **MERN S
     <td width="60" align="center"><img src="https://img.shields.io/static/v1?message=SWIGGY&logo=swiggy&label=&color=FC8019&logoColor=white&style=flat-square" alt="Swiggy" /></td>
     <td>
       <b>MCP Orchestrator</b> — Selected project for <a href="https://mcp.swiggy.com/builders/docs/">Swiggy Builders Club</a>.<br/>
-      An orchestration & routing layer for Model Context Protocol (MCP) servers — enabling agents to dynamically discover, compose, and call MCP tools across the Swiggy ecosystem (food ordering, Instamart, Dineout, Genie).
+      An orchestration & routing layer for Model Context Protocol (MCP) servers — enabling agents to dynamically discover, compose, and call MCP tools across the Swiggy ecosystem (food ordering, Instamart, Dineout, Genie).<br/><br/>
+      <a href="https://youtu.be/8W6jmgECRfo"><img src="https://img.shields.io/static/v1?message=Watch+Demo&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28" alt="YouTube Demo" /></a>
+      &nbsp;
+      <a href="https://swiggy-builders-club-ai-agent.onrender.com/"><img src="https://img.shields.io/static/v1?message=Try+Live+Product&logo=render&label=&color=46E3B7&logoColor=white&style=for-the-badge" height="28" alt="Live Product" /></a>
     </td>
   </tr>
 </table>
@@ -176,7 +187,8 @@ I'm a Full-Stack Developer & AI Engineer from India specializing in the **MERN S
 ### 🏆 Achievements
 
 - 🥇 **Swiggy Builders Club — Selected** (2026)
-  Approved to build **MCP Orchestrator** on Swiggy's MCP platform. building live at [mcp.swiggy.com/builders](https://mcp.swiggy.com/builders/docs/).
+  Approved to build **MCP Orchestrator** on Swiggy's MCP platform. Building live at [mcp.swiggy.com/builders](https://mcp.swiggy.com/builders/docs/).
+  [▶ Watch Demo](https://youtu.be/8W6jmgECRfo) · [🚀 Try Live Product](https://swiggy-builders-club-ai-agent.onrender.com/)
 
 - 🥈 **AMD Slingshot 2026 — Finalist** (Hyderabad)
   Built an AI solution for **AI in Consumer Experience**; selected as a finalist among teams nationwide.
